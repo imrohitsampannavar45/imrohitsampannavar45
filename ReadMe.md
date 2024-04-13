@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Currently Working As Java developer Trainee <br>and Ask Me about Web Development and Android Development <br>Enthusiastic in Graphic designs and UI/UX Design  and also Very Much Intrested in Machine learning
+I am Currently Working As Software Engineer in Skylux Telelink Pvt Ltd Bengaluru <br>and Ask Me about Mern Stack Development and Java Full Stack <br>Enthusiastic in Front end and Backend Development and Genesys Contact Center Solutions and also Very Much Intrested Cloud Computing Machine Learning and Also Mobile Application Development
 
 
 ## 🌐 Socials:
