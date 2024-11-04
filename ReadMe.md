@@ -1,3 +1,18 @@
+![image](https://github.com/user-attachments/assets/e96874b4-8959-474d-9af2-4cb5d6b38f78)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Rohit Sampannavar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
