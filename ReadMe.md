@@ -5,17 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imrohitsampannavar45" alt="imrohitsampannavar45" /></a> </p>
 
-- 🔭 I’m currently working on **Background Removal**
-
-- 🌱 I’m currently learning **Nextjs, Spring FrameWork, Django, Amazon Web Service**
-
-- 🤝 I’m looking for help with **Bulding SAAS Products and Full Stack Application for Both Web and Mobile**
 
 - 👨‍💻 All of my projects are available at [https://nextjs-portfolio-rohit-sampannavars-projects.vercel.app/](https://nextjs-portfolio-rohit-sampannavars-projects.vercel.app/)
-
-- 📝 I regularly write articles on [Web Development Articles](Web Development Articles)
-
-- 💬 Ask me about **React, Javascript, AWS, Java**
 
 - 📫 How to reach me **imrohitsampannavar@gmail.com**
 
